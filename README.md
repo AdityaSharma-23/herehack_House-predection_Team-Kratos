@@ -22,3 +22,12 @@ Bootstrap,
 Jquery,
 MySql
 
+
+
+## Installing required packages
+
+console
+(.env) $ cd HereTech/
+(.env) $ pip install -r requirements.txt
+
+## requirements.txt includes folium, pandas, matplotlib, seaborn, numpy, scikit-learn
