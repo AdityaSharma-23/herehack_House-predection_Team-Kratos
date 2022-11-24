@@ -5,7 +5,18 @@ Report
 
 Problem Statement
 
-House Predection System Predict land/house prices based on the geo location data and visualize over maps
+House Predection System Predict land/house prices based on the geo location data and visualize over maps.
+
+## Using Folium and GeoCoding in Python 
+
+## Preparing the environment
+
+For this project I'm using Python version `3.10.5`, and the module `venv` to create the environment:
+
+console
+$ python3 -m venv .env
+$ source .env/bin/activate
+
 
 Proposed Solution
 
