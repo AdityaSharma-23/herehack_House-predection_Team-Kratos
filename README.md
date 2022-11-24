@@ -33,13 +33,13 @@ A housing price analysis framework based on geographic big data. First, based on
 ## Tech Stack
 
 Python,,
-Django ,
+Django REST Framework ,
 Javascript,
 Css,
-Framework,
 Bootstrap,
 Jquery,
-MySql
+MySql,
+HTML.
 
 ## Files
 
