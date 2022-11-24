@@ -20,5 +20,5 @@ Css,
 Framework,
 Bootstrap,
 Jquery,
-MySql.
+MySql
 
