@@ -15,5 +15,13 @@ A housing price analysis framework based on geographic big data. First, based on
 
 
 #Tech Stack
+Python
+Django 
+Javascript
+Css
+Framework
+Bootstrap
+Jquery
+MySql
 
 
